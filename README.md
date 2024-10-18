@@ -1,0 +1,2 @@
+# Tesla-Innovations-Fabrication-Website---Live-Project-for-Quality-Webs
+This project is a fabrication website for Tesla Innovations, a company based in Faridabad, UP. Developed as part of a live project for Quality Webs, the website is designed to showcase Tesla Innovations' cutting-edge fabrication services and innovations. The project emphasizes clean design, mobile responsiveness, and user-friendly navigation.
